@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rios", "Rios\Rios.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro", "Intro\Intro.csproj", "{2F866C45-1B10-4ED3-BCD2-0C70DDD0C99D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizzeria", "Pizzeria\Pizzeria.csproj", "{75B86E34-2093-4E62-9A20-FBE3CAB92923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2F866C45-1B10-4ED3-BCD2-0C70DDD0C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F866C45-1B10-4ED3-BCD2-0C70DDD0C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F866C45-1B10-4ED3-BCD2-0C70DDD0C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B86E34-2093-4E62-9A20-FBE3CAB92923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B86E34-2093-4E62-9A20-FBE3CAB92923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B86E34-2093-4E62-9A20-FBE3CAB92923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B86E34-2093-4E62-9A20-FBE3CAB92923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
